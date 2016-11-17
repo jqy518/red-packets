@@ -6,6 +6,10 @@
 //    len:10
 //});
 //console.log(demo);
+/**
+ * redPackets-v1.0.0 发红包小程序
+ * 作者：kyle
+ * */
 (function (global,factory) {
     global.redPackets = factory()
 })(this,function () {
